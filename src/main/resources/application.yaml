@@ -1,0 +1,6 @@
+ktor:
+  deployment:
+    port: 9268
+  application:
+    modules:
+      - com.parking.MainKt.module
